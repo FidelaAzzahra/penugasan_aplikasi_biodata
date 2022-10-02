@@ -1,4 +1,4 @@
-# profile_diri
+# Penugasan aplikasi biodata
 Tugas mata kuliah Pemrograman Perangkat Bergerak
 
 Nama : Fidela Azzahra
