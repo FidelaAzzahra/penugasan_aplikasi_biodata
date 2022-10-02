@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FidelaProfile</string>
+    <string name="teknik_informatika">Teknik Informatika</string>
+    <string name="fidela_azzahra">Fidela Azzahra</string>
+    <string name="todo">TODO</string>
+    <string name="no_telp">No Telp</string>
+    <string name="desain">Desain</string>
+    <string name="hobi">Hobi</string>
+    <string name="nim">NIM</string>
+    <string name="a11_2021_13417">A11.2021.13417</string>
+    <string name="_081547168262">081547168262</string>
+    <string name="line">---------------------------------------------------</string>
+    <string name="line2">---------------------------------------------------</string>
+</resources>
