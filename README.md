@@ -1,6 +1,6 @@
-# Penugasan aplikasi biodata
-- Tugas mata kuliah Pemrograman Perangkat Bergerak
+<h3>Penugasan aplikasi biodata</h3>
 
+- Tugas mata kuliah Pemrograman Perangkat Bergerak
 - Ketika user menekan button gmail user akan dibawa ke aplikasi gmail. Dengan catatan aplikasi gmail sudah terinstal pada device emulator.
 - Ketika user menekan button google maps user akan dibawa ke aplikasi google maps dan maps akan mengarah ke lokasi user.
 
